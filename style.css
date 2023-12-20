@@ -1,0 +1,369 @@
+.logo-size{
+    width: 120px;
+    height: 30px;
+}
+
+.nav-font-color{font-family: 'AR One Sans', sans-serif;
+    font-size: 15px;
+    background-color:rgb(255, 255, 255);
+    }
+
+.contect{
+    background-color: white;
+    color: rgb(228, 61, 89);
+    border: 1px solid rgb(228, 61, 89);
+}
+.c-btn:hover{
+    background-color: rgb(228, 61, 89);
+    color: white;
+}
+.p:hover{
+    color:rgb(32, 136, 177);
+}
+.dropdwon:hover.dropdown-menu{
+    display: block;
+
+}
+.home-hw{position: relative;
+}
+
+.dco-img1{position: absolute;
+    width: 500px;
+    top: 200px;
+    left: -290px;
+}
+
+.dco-img2{position: absolute;
+    width: 500px;
+    top: 160px;
+left: 1000px;
+}
+.header-img{
+    position: absolute;
+    top: 200px;
+    left: 590px;
+}
+.pp{
+    position: relative;
+    top: 230px;
+    left: 20px;
+}
+
+.heading{
+color:#191E47;
+font-size: 80px;
+font-family:open sans,sans-serif;
+}
+.details-btn{
+    background-color: #4555d2;
+    border: solid 1px;
+    color:white;
+}
+
+.detailsh-btn:hover{
+    color: #4555d2;
+    border: 2px solid  #4555d2;
+}
+
+.count-div{
+    position: relative;
+    display:inline-block;
+    top: 550px;
+    left: 200px;
+    width:900px;
+    left: 10px;
+}
+
+.num-1{
+    position: absolute;
+    display: inline-block;
+    height: 180px;
+    width: 200px;
+    left: 20px;
+}
+.num-2{
+    position: absolute;
+    display: inline-block;
+    height: 180px;
+    width: 200px;
+    left: 320px;
+}
+.num-3{
+    position: absolute;
+    display: inline-block;
+    height: 180px;
+    width: 200px;
+    left: 600px;
+}
+.num-4{position: absolute;
+    display: inline-block;
+    height: 180px;
+    width: 200px;
+    left: 810px;
+}
+.num-cs{
+    font-size: 100px;
+    color: #191E47;
+}
+.section1{ position: absolute;
+    height: 400px;
+    width: 1200px;
+top: 1300px;
+}
+.details-div{
+    position: relative;
+    top: 1300px;
+}
+
+.details-imgdc{
+    position: absolute;
+    top: 50px;
+    width: 500px;
+    left: -310px;
+}
+
+.details-img1{
+    position: absolute;
+    width: 500px;
+    top:60px;
+}
+
+.info{
+    position: absolute;
+    top: 110px;
+    left: 500px;
+}
+
+.get-btn{
+    font-size: 15px;
+    color: white;
+    background-color:#4555D2 ;
+    border: 1px solid #4555D2;
+}
+
+.get-btnho:hover{
+    color: #4555D2;
+    border: 1px solid #4555D2;
+}
+.service{
+    position: absolute;
+    top: 2300px;
+    left: 10px;
+    width: 1300px;
+    height: 500px;
+}
+.card1{
+    position: absolute;
+    left: 430px;
+    height: 200px;
+    width: 840px;
+font-size: 10px;
+justify-content: center;}
+
+.card2{
+    position: absolute;
+    height: 200px;
+    left: 520px;
+    width: 840px;
+    top: 230px;
+    font-size: 10px;
+}
+
+.Serviceswe{
+    position:absolute;
+    color: #191E47;
+    top: 50px;
+    width: 200px;
+}
+
+.p1{
+    position: relative;
+    top: 2455px;
+
+}
+
+.detail-img2{
+    position: absolute;
+    left: 800px;
+}
+
+.star{
+    position: absolute;
+    right: -90px;
+    width: 500px;
+}
+.get-qute{
+    position: absolute;
+    top: 700px;
+    justify-content: center;
+    text-align: center;
+    height: 350px;
+    width: 1100px;
+}
+.details-btn2{
+    background-color: #4555d2;
+    border: solid 1px;
+    color:white;
+}
+
+.details-btn:hover{
+    color: #4555d2;
+    border: 2px solid  #4555d2;
+   
+}
+.h{
+    position:absolute;
+    top: 3870px;
+    text-align: center;
+    right: 400px;
+
+}
+.image1{
+    position: absolute;
+    left:90px;
+    top:4000px;
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr;
+   }
+   .image2{
+    position: absolute;
+    left:90px;
+    top:4400px;
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr;
+   }
+   .main{
+    position: relative;
+    height: 500px;
+}
+
+.slide-back{
+    background-color: white;
+}
+
+.slider-mark{
+    position: relative;
+    top: 4250px;
+    width: 150px;
+left: 160px;}
+.slidesec{
+    position: relative;
+    top: 4100px;
+    left: 230px;
+    height: 400px;
+    width: 900px;
+    justify-content: center;
+}
+.slide-img{
+    width: 100px;
+    border-radius: 50%;
+    margin-bottom: 70px;
+}
+
+.slide-p{
+    color: #191E47;
+}
+.form1{
+    position: relative;
+    top: 4900px;
+}
+.fimg{
+    position: absolute;
+    width: 600px;
+    left: -230px;
+    bottom: 500px;
+}
+.fimg1 {
+        position: absolute;
+        width: 600px;
+        left: 890px;
+        bottom:500px;
+}
+.form-c{
+    position: relative;
+    z-index: 1;
+    bottom: 500px;
+}
+.pooja{
+    position: absolute;
+    bottom: 600px;
+    height: 400px;
+    width: 500px;
+    left: 630px;
+}
+
+.fill{ position: absolute;
+    padding-bottom: 150px;
+}
+.contect-btn2{
+    position: absolute;
+    top: 450px;
+    background-color: #4555D2;
+    border: #4555D2 1px solid;
+    color: white;
+    padding-left: 225px;
+    padding-right: 225px;
+}
+.contect-btn2:hover{
+    border: #4555D2 1px solid;
+    color:#4555D2;
+}
+.footer1{
+    position: absolute;
+    height: 350px;
+    width: 1290px;
+    top: 6300px;
+    background: color #f9faf9;;
+}
+
+.start{
+    position: absolute;
+    top: 110px;
+    left: 100px;
+    font-size:15px;
+    
+}
+
+.medium{
+    position: absolute;
+    top: 110px;
+    left: 470px;
+    font-size:15px;
+
+}
+
+.last{
+    position: absolute;
+    top: 290px;
+    left: 510px;
+    font-size:15px;
+    
+
+}
+
+.logo-all{
+    position: absolute;
+    top: 110px;
+    left: 900px;
+    font-size:15px;
+}
+.text1:hover{
+color: #4555d2;
+}
+
+
+
+.logolast{
+    width: 25px;
+    color:white;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+.icon:hover{
+    border: 1px solid blue;
+    color: rgb(16, 16, 196);
+    border-radius: 50px;
+
+}
+
+
